@@ -1,6 +1,6 @@
 import numpy as np
 import random
-import torch as T
+import torch as 
 import torch.nn as nn
 import torch.optim as optim
 import os

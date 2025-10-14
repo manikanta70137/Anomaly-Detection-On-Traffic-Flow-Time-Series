@@ -306,3 +306,4 @@ def TrafficAD(with_ground_truth=False):
 
 if __name__ == '__main__':
     TrafficAD(with_ground_truth=False)
+
